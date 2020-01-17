@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+author: John Neffenger
+description: John Neffenger, doing business as Status Six Communications
 ---
 ## Projects
 

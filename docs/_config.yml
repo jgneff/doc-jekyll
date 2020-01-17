@@ -1,6 +1,6 @@
 # Site variables
 title: STATUS:6
-description: Status Six Communications is the sole proprietorship of John Neffenger.
+url: https://www.status6.com
 
 # Sass/SCSS
 sass:
@@ -9,3 +9,4 @@ sass:
 # GitHub Flavored Markdown is the default in Jekyll 4.0.0
 kramdown:
   input: GFM
+  hard_wrap: false
