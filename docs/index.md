@@ -2,7 +2,7 @@
 layout: default
 title: Home
 author: John Neffenger
-description: John Neffenger, doing business as Status Six Communications
+description: Example page generated from Markdown by Jekyll
 ---
 ## Projects
 
