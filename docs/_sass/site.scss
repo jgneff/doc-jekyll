@@ -1,0 +1,9 @@
+/**
+ * Site-specific styles
+ */
+
+@media (prefers-color-scheme: dark) {
+  header > a > img {
+    filter: invert(1);
+  }
+}
