@@ -6,4 +6,9 @@
   header > a > img {
     filter: invert(1);
   }
+
+  pre.highlight > code > span {
+    filter: invert(1); /* Inverts colors of syntax highlighting */
+    color: #00417a; /* Resets default color */
+  }
 }
